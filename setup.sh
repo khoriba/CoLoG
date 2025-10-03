@@ -27,8 +27,6 @@ echo Done.
 echo Preparing reference.
 mkdir -p $CONDA_PREFIX/opt/reference
 cp COLOG/reference/* $CONDA_PREFIX/opt/reference/
-
-nextclade dataset get --name 'nextstrain/sars-cov-2/wuhan-hu-1/orfs' --output-dir "$CONDA_PREFIX/opt/reference/nextstrain/sars-cov-2/wuhan-hu-1/orfs"
 echo Done.
 
 echo Setup completed successfull.
