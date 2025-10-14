@@ -1,5 +1,5 @@
 ![](https://github.com/khoriba/COLOG/blob/main/scripts/Colog.png)
-# COLOG: Coronavirus Local Genomics analysis pipeline
+# CoLoG: Coronavirus Local Genomics analysis pipeline
 CoLoG (Coronavirus Local Genomics) is a bioinformatics pipeline designed to perform basic SARS-CoV-2 genome analysis in local computing environments. It was developed to bring the genome-analysis component of Japan's COG-JP surveillance web service into an offline, site-operable workflow that laboratories can run securely on their own servers.
 
 ## Installation
