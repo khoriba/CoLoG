@@ -231,7 +231,8 @@ which could cause compatibility issues and prevent the CoLoG pipeline from funct
 
 ## Citation
 Please cite the following if you are using the CoLoG pipeline:
-Sekizuka T, Itokawa K, Hashino M, et al. A Genome Epidemiological Study of SARS-CoV-2 Introduction into Japan. mSphere. 2020;5(6):e00786-20. Published 2020 Nov 11. doi:10.1128/mSphere.00786-20 <https://pubmed.ncbi.nlm.nih.gov/33177213/>
+
+[Sekizuka T, Itokawa K, Hashino M, et al. A Genome Epidemiological Study of SARS-CoV-2 Introduction into Japan. mSphere. 2020;5(6):e00786-20. Published 2020 Nov 11. doi:10.1128/mSphere.00786-20] (https://pubmed.ncbi.nlm.nih.gov/33177213/)
 
 
 
