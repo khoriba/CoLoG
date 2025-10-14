@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 #
-# sekizuka@nih.go.jp
-#
 # ×ÛPå¼³ñËXNvg (072908)
 #
 # FASTA`®ð
