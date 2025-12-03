@@ -1,13 +1,18 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-##############################################
-# Batch execution of CoLoG pipeline
-# Usage:
-#   bash run_colog_all.sh /path/to/input_dir
-# If no input directory is provided, the current
-# working directory will be used as input.
-##############################################
+###################################################
+## Batch execution of CoLoG pipeline
+## Usage:
+##   bash run_colog_all.sh /path/to/input_dir
+## If no input directory is provided, the current
+## working directory will be used as input.
+## If your fastq files are in current directory
+## (colog_env)$ ./run_colog_all.sh
+##
+## If your fastq files are in another directory
+## (colog_env)$ ./run_colog_all.sh /path/to/inputs
+###################################################
 
 INPUT_DIR="${1:-.}"
 
